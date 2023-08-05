@@ -4139,7 +4139,7 @@ textarea.form-control-lg {
 }
 
 .navbar-dark {
-  --bs-navbar-color: rgba(255, 255, 255, 0.55);
+  --bs-navbar-color: rgba(4, 4, 4, 0.55);
   --bs-navbar-hover-color: rgba(255, 255, 255, 0.75);
   --bs-navbar-disabled-color: rgba(255, 255, 255, 0.25);
   --bs-navbar-active-color: #fff;
@@ -10946,8 +10946,8 @@ header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
-  color: #fff;
-  background-image: url("../assets/img/358691836_10228887083300519_5440847041215933816_n.jpg");
+  color: #000;
+  background-image: url("../assets/img/buildings.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
